@@ -32,7 +32,7 @@ The project uses e-commerce sales data containing information about revenue, gro
 
 ## 6. Screenshot
 
-![E-Commerce Sales Dashboard](Ecommerce_Dashboard_Screenshot.png)
+![E-Commerce Sales Dashboard](https://github.com/sujiit0101/E-Commerce_Sales/blob/main/Ecommerce_Dashboard_Screenshot.png)
 
 ## Project Objective
 The main objective of this project is to understand e-commerce business performance, identify top-selling products and platforms, and analyze sales and profitability across different countries and time periods.
